@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://5shangzhi.github.io/blog</id>
     <title>井蛙惊梦人 Blog</title>
-    <updated>2022-07-07T07:35:59.000Z</updated>
+    <updated>2022-07-10T05:47:39.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://5shangzhi.github.io/blog"/>
     <subtitle>井蛙惊梦人 Blog</subtitle>
     <icon>https://5shangzhi.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[与安倍事件相关的两则谣言]]></title>
+        <id>wusz-2022-07-10</id>
+        <link href="https://5shangzhi.github.io/blog/wusz-2022-07-10"/>
+        <updated>2022-07-10T05:47:39.000Z</updated>
+        <summary type="html"><![CDATA[利用日常生活中的素材，进行批判性思维训练]]></summary>
+        <content type="html"><![CDATA[<p>昨天上午，多次看见这样的信息：</p><p><img loading="lazy" alt="井蛙惊梦人" src="/assets/images/1-8231cbbce47046c48cd12aa8961d4c20.jpeg" width="941" height="421" class="img_ev3q"></p><p>后来，出现了进化版：</p><p><img loading="lazy" alt="井蛙惊梦人" src="/assets/images/2-fe4d5ec2085d5393c56a1624d06c1be9.jpeg" width="932" height="360" class="img_ev3q"></p><p>主要修正了两点：</p><ol><li>关于时间的表述（“凌晨12点”这种表述不当）</li><li>强调了自杀，而不仅仅是切腹。</li></ol><p>一些人看见便不由自主地震惊，继而感叹，还有的半信半疑。</p><p>我没有去查证，或者说不屑于去浪费时间，因为我基本判定为假：</p><p><img loading="lazy" alt="井蛙惊梦人" src="/assets/images/3-ef7f4d9f7d5d109c3f343c8eafb16203.jpeg" width="937" height="1531" class="img_ev3q"></p><p>我的判断被证明是是对的（这是显然的，如果我判断错误，那很可能您就见不到这篇文章）。</p><p>为什么有人要造这种谣？我也提供了一种解释，然而，与造谣者的动机相比，<strong>更值得反省的是，为何我们会信</strong>？</p><blockquote><p>可能编的人怀有这样的期望，而又符合一些人的预期，于是得到了传播。</p><p>之所以出现这样的期待与预期，大概是因为对日本现状了解很少。就像一些欧美人还以为中国人还留着长辫子一样，他们自然会推测出中国人洗头很费事。同样，如果我们还认为他们风行武士道精神，那么，切腹自尽就是理所当然的。</p></blockquote><p><strong>人们总是会相信愿意相信的东西，并且努力为之提供合理的解释</strong>。</p><p>要想自己不被欺骗，或者减小被欺骗的概率，那么，批判性思维的训练便是必修课。</p><p>比如，当前我便是通过“消息传播的形式”和“消息无信源”来组合判断的。如果消息为真，自然会有媒体报道，那么，传播者转发一下新闻链接和截个图是更容易的事，而不会搞出这么一段纯文字的“快讯”。</p><p>另一则谣言是一段被冠以“安倍晋三”说过的话：</p><p><img loading="lazy" alt="井蛙惊梦人" src="/assets/images/4-599413612668e140ad8dc0e9904f9bf5.jpeg" width="968" height="1844" class="img_ev3q"></p><p>在这辟谣贴没有出现之前，我们是难以判断某人是否说过某段话。所以，一开始我是半信半疑。</p><p>为什么会怀疑呢？如果你见多了被冠以“鲁迅说过”的图文后，对于这种图文就会有<strong>条件反射</strong>式的怀疑。</p><p>不过，对于这样的“谣言”，信与不信不是很重要，<strong>重要的是内容</strong>。如果文字内容确实说得在理，有哲理，能引起共鸣，那谁说的就无甚关系。谣言编造者之所以这么干，一来利用人们崇拜权威的弱点，二来是借助热点事件来传播。不得不说，这一条能够得到广泛地传播，也侧面反映了当下被防疫抗疫所折腾的国人过得很辛苦，因而引起了共鸣。</p><p>辟谣贴给出了明确的信源，所以，查证就容易了（这也说明了信源的重要性）。原来这所谓的“安倍说过”，来自《千山暮雪》小说的“章二十四”：</p><p><img loading="lazy" alt="井蛙惊梦人" src="/assets/images/5-5492a01b9d6fc1287b5dce31d8db4920.png" width="1362" height="812" class="img_ev3q"></p><p><img loading="lazy" src="https://5shangzhi.github.io/img/frog.jpeg" alt="井蛙惊梦人" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>吴尚智</name>
+            <uri>https://github.com/5shangzhi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[别嘲笑她，她只是做了一个噩梦]]></title>
         <id>wusz-2022-07-07</id>
