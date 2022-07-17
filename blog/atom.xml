@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://5shangzhi.github.io/blog</id>
     <title>井蛙惊梦人 Blog</title>
-    <updated>2022-07-16T01:02:21.000Z</updated>
+    <updated>2022-07-17T05:41:11.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://5shangzhi.github.io/blog"/>
     <subtitle>井蛙惊梦人 Blog</subtitle>
     <icon>https://5shangzhi.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[逻辑谬误漫谈之五（续）：偷换概念]]></title>
+        <id>wusz-2022-07-17</id>
+        <link href="https://5shangzhi.github.io/blog/wusz-2022-07-17"/>
+        <updated>2022-07-17T05:41:11.000Z</updated>
+        <summary type="html"><![CDATA[对偷换概念这一逻辑谬误进行更深层次的分析]]></summary>
+        <content type="html"><![CDATA[<p>本想接着上篇的教训，谈谈“偷换概念”的逻辑谬误。</p><p>哪知我已经写过了，是“逻辑谬误漫谈”系列的最后一篇（👉 <a href="https://mp.weixin.qq.com/s/ZZ0GeqinesCaylsJYCCWTQ" target="_blank" rel="noopener noreferrer">逻辑谬误漫谈之五：偷换概念</a>）。</p><p>这个系列是有所感悟就写一篇，断断续续的。本文作为续篇，是对“偷换概念”更深层次的理解。</p><p>比如搭建一座木桥：那一根根木头是我们思维的基本单元，即，<strong>基本概念</strong>；木头之间如何合理铰接，则是由<strong>逻辑思维</strong>来负责的；而想建成一座桥，则需要懂得桥梁的<strong>知识</strong>，比如设计蓝图，物料的计算，按图施工等。</p><p>在以往的思辨过程中，我特别重视前两项：“基本概念”与“逻辑思维”，而对于“知识储备”的认识不足。当然，“书到用时方恨少”，知识的积累是永恒的话题，我们总是嫌它不够。我想说的是，当某个行业相关的知识储备不足，它会直接反作用到“基本概念”的理解上。这时，逻辑思维反而会将不当的木头进行铰接，桥就出问题了。</p><p>因《加菜文》而与对方的交互便狠狠给我上了一课。</p><p>那天，我掉入了这样的陷阱：</p><blockquote><p>学校是<strong>执行者</strong>，显然，他们不能作为责任单位，这是<strong>常识</strong>。</p></blockquote><p>=&gt;</p><blockquote><p>教育局无法调动相关资源，所以，也是<strong>执行者</strong>，因而他们也不应该作为责任单位，这也是<strong>常识</strong>。</p></blockquote><p>这里被偷换的概念便是“执行者”：学校作为执行者，与教育局作为执行者，虽然看起来都是“执行者”，但其背后的权责范围是不同的。也就是说，在两个句子中“执行者”所表达的意义在其<strong>外延上</strong>是不同的。</p><p>要明白这二者背后的不同，则涉及到对这两部门的权责以及法律知识的了解。这便是“行业相关知识”反作用于“基本概念”（执行者）的实际案例。由于我缺乏这方面知识，逻辑思维反而将我带进了沟里，使得我认为自己“反常识”了，需要修正。</p><p>不过，我也不认为对方是故意设下的逻辑陷阱使我入坑，而是在长达24分钟的交流过程中，“话赶话”到了那里。因为具备良好逻辑思维能力的人决计不会说出“抹黑自贸港”、“为什么不写点好的”之类的问题。</p><p>是不是必须了解这两部门的权责以及法律知识才能回应对方的反击呢？也不一定。至少，在这个案例中，还可以用<strong>归谬法</strong>进行反击。</p><p>如果教育局因是执行部门而免责，那疾控中心也可以说他们是执行者，比如他们的命令来自某个市领导，而市领导则会说来自省政府……这一路撸下去，除了最顶端的一个人、几个人或某个部门以外，其他的都是执行者，都不应该作为责任对象 —— 这显然是荒谬的。</p><p>所以，在这起事件中，<strong>只需要看谁能够调动各个学校的师生</strong>，他们便是明确的责任对象。以此来看，《疫情防控，海口市教育局凭啥给师生“加菜”？》不论是标题还是内容，以教育局作为对象是没问题的。</p><p>以上是我事后复盘时厘清的，在临场反应上还欠火候。当然，最干脆的还是我那朋友基于法律知识的回应：</p><blockquote><p>行政复议和行政诉讼，直接可以以教育局为复议对象或被告。</p></blockquote><p>也许，真正打动我的是对方的真诚，我在找一个能说服自己的理由来删文，从而没有绞尽脑汁来回击，否则，也不可能聊那么久。</p><p><img loading="lazy" src="https://5shangzhi.github.io/img/frog.jpeg" alt="井蛙惊梦人" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>吴尚智</name>
+            <uri>https://github.com/5shangzhi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[虽然我上面有人，但还是删了文]]></title>
         <id>wusz-2022-07-16</id>
