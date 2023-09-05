@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_5_shangzhi_github_io=self.webpackChunk_5_shangzhi_github_io||[]).push([[8969],{84063:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/\u5f31\u8005\u53cd\u6297","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

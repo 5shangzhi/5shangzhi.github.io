@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_5_shangzhi_github_io=self.webpackChunk_5_shangzhi_github_io||[]).push([[6137],{71462:a=>{a.exports=JSON.parse('{"label":"\u4e95\u86d9\u60ca\u68a6\u4eba","permalink":"/blog/tags/\u4e95\u86d9\u60ca\u68a6\u4eba","allTagsPath":"/blog/tags","count":1}')}}]);
